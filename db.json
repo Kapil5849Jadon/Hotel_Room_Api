@@ -43,6 +43,17 @@
       "capacity": "4",
       "cost": "3000",
       "booked": false
+    }, 
+    {
+      "id": 5,
+      "category": "suite",
+      "image_url": "https://www.shandonhotelspa.com/wp-content/uploads/2016/01/New-Deluxe-Rooms-1.jpg",
+      "type_of_room": "NON-AC",
+      "bed_type": "single",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "3000",
+      "booked": false
     }
   ]
 }
