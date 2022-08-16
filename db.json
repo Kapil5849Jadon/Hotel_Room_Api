@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "category": "family",
+      "image_url": "https://wallpapercave.com/wp/wp6957233.jpg",
+      "type_of_room": "AC",
+      "bed_type": "double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "5000",
+      "booked": false
+    }
+  ]
+}
