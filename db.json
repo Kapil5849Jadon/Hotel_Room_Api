@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id": 1,
       "category": "family",
       "image_url": "https://wallpapercave.com/wp/wp6957233.jpg",
       "type_of_room": "AC",
@@ -8,6 +9,39 @@
       "no_of_persons": "2",
       "capacity": "4",
       "cost": "5000",
+      "booked": false
+    },
+    {
+      "id": 2,
+      "category": "deluxe",
+      "image_url": "https://cache.marriott.com/marriottassets/marriott/TLVSI/tlvsi-club-room-5990-hor-clsc.jpg?interpolation=progressive-bilinear&",
+      "type_of_room": "NON-AC",
+      "bed_type": "double",
+      "no_of_persons": "3",
+      "capacity": "4",
+      "cost": "7000",
+      "booked": false
+    },
+    {
+      "id": 3,
+      "category": "family",
+      "image_url": "https://www.corinthia.com/media/1563/corinthia-lisbon-deluxe-king-bedroom.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "2",
+      "cost": "5000",
+      "booked": false
+    },
+    {
+      "id": 4,
+      "category": "suite",
+      "image_url": "https://www.shandonhotelspa.com/wp-content/uploads/2016/01/New-Deluxe-Rooms-1.jpg",
+      "type_of_room": "AC",
+      "bed_type": "double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "3000",
       "booked": false
     }
   ]
